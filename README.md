@@ -2,7 +2,7 @@
 
 This repository is to support our paper submitted to ICIT 2016:
 
-Daoyuan Li, Tegawendé F. Bissyandé, Sylvain Kubler, Jacques Klein, and Yves Le Traon. Profiling household appliance electricity usage with n-gram language modeling. In The 2016IEEE International Conference on Industrial Technology (ICIT 2016), Taipei, March 2016.IEEE.
+Daoyuan Li, Tegawendé F. Bissyandé, Sylvain Kubler, Jacques Klein, and Yves Le Traon. [Profiling household appliance electricity usage with n-gram language modeling](http://orbilu.uni.lu/handle/10993/24163). In The 2016IEEE International Conference on Industrial Technology (ICIT 2016), Taipei, March 2016.IEEE.
 
 ## How the code works
 
